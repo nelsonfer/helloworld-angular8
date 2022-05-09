@@ -1,6 +1,6 @@
 {
   "name": "helloworld-angular8",
-  "version": "0.0.0",
+  "version": "0.0.#{SetNumber}#",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
